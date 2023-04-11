@@ -32,9 +32,6 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 <br>
 
-# PRODUCT DEMO
-
-![Alarm-Clock](https://im2.ezgif.com/tmp/ezgif-2-af6171f312d4.gif)<br>
 
 # LINKS
 
